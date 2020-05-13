@@ -1,5 +1,40 @@
+
+/*
 header{
     background-color: cornflowerblue;
 }
+*/
+
+body{
+        font-family: 'Source Sans pro',sans-serif;
+}
 
 
+h1,
+h3,
+h4,
+h5,
+h6{
+    font-family:'Fjalla One',sans-serif;  
+    font-weight: normal; 
+}
+
+h1{
+    font-size: 40px;
+    line-height: 1.5;
+    letter-spacing: -.2px;
+}
+
+.project-details{
+    width: 500px;
+
+}
+
+.hero{
+    height: 300px;
+}
+
+.header{
+    background-color: #1b2127;
+    color: whitesmoke;
+}
